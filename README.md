@@ -2,6 +2,8 @@
 a simple command line based tts 
 
 How to use it ?
+
+
 Linux/Mac 
 
 1. Open a Terminal 
